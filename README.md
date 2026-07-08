@@ -44,5 +44,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/sadhana62/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/sadhana62/LeetCode/tree/master/0283-move-zeroes) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/sadhana62/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
