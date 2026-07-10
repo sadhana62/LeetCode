@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sadhana62/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0283-move-zeroes](https://github.com/sadhana62/LeetCode/tree/master/0283-move-zeroes) |
 | [0621-task-scheduler](https://github.com/sadhana62/LeetCode/tree/master/0621-task-scheduler) |
 ## Hash Table
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sadhana62/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/sadhana62/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/sadhana62/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/sadhana62/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sadhana62/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/sadhana62/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sadhana62/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
