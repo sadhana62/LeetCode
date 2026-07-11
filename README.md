@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sadhana62/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0018-4sum](https://github.com/sadhana62/LeetCode/tree/master/0018-4sum) |
 | [0283-move-zeroes](https://github.com/sadhana62/LeetCode/tree/master/0283-move-zeroes) |
 | [0621-task-scheduler](https://github.com/sadhana62/LeetCode/tree/master/0621-task-scheduler) |
 ## Hash Table
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/sadhana62/LeetCode/tree/master/0018-4sum) |
 | [0621-task-scheduler](https://github.com/sadhana62/LeetCode/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sadhana62/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0018-4sum](https://github.com/sadhana62/LeetCode/tree/master/0018-4sum) |
 | [0151-reverse-words-in-a-string](https://github.com/sadhana62/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/sadhana62/LeetCode/tree/master/0283-move-zeroes) |
 ## String
