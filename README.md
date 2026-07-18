@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/sadhana62/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0283-move-zeroes](https://github.com/sadhana62/LeetCode/tree/master/0283-move-zeroes) |
 | [0621-task-scheduler](https://github.com/sadhana62/LeetCode/tree/master/0621-task-scheduler) |
+| [0643-maximum-average-subarray-i](https://github.com/sadhana62/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sadhana62/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sadhana62/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/sadhana62/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
