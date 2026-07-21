@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sadhana62/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/sadhana62/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/sadhana62/LeetCode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/sadhana62/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0621-task-scheduler](https://github.com/sadhana62/LeetCode/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/sadhana62/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/sadhana62/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -126,4 +127,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sadhana62/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/sadhana62/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/sadhana62/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
