@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sadhana62/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sadhana62/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/sadhana62/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [1977-number-of-ways-to-separate-numbers](https://github.com/sadhana62/LeetCode/tree/master/1977-number-of-ways-to-separate-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sadhana62/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sadhana62/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/sadhana62/LeetCode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/sadhana62/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [1977-number-of-ways-to-separate-numbers](https://github.com/sadhana62/LeetCode/tree/master/1977-number-of-ways-to-separate-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/sadhana62/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/sadhana62/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/sadhana62/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [1977-number-of-ways-to-separate-numbers](https://github.com/sadhana62/LeetCode/tree/master/1977-number-of-ways-to-separate-numbers) |
 ## Design
 |  |
 | ------- |
