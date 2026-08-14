@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sadhana62/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sadhana62/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sadhana62/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/sadhana62/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sadhana62/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Greedy
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/sadhana62/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1977-number-of-ways-to-separate-numbers](https://github.com/sadhana62/LeetCode/tree/master/1977-number-of-ways-to-separate-numbers) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sadhana62/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/sadhana62/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sadhana62/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sadhana62/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sadhana62/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sadhana62/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sadhana62/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/sadhana62/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Queue
 |  |
 | ------- |
