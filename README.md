@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sadhana62/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/sadhana62/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0070-climbing-stairs](https://github.com/sadhana62/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sadhana62/LeetCode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/sadhana62/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [1977-number-of-ways-to-separate-numbers](https://github.com/sadhana62/LeetCode/tree/master/1977-number-of-ways-to-separate-numbers) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sadhana62/LeetCode/tree/master/0070-climbing-stairs) |
 | [0523-continuous-subarray-sum](https://github.com/sadhana62/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/sadhana62/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/sadhana62/LeetCode/tree/master/2029-stone-game-ix) |
@@ -245,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/sadhana62/LeetCode/tree/master/2029-stone-game-ix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sadhana62/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
