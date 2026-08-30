@@ -20,12 +20,12 @@ public:
         for (int i=0;i<n;i++) {
             totalSum += nums[i];
         }
-        int m = (totalSum - target) /2;
+        int m = (totalSum + target) /2;
         // cout<<(totalSum-target)%2; 
         //    if ((totalSum - target) < 0 || (totalSum - target) % 2 != 0)
         // return 0;
-        if ((totalSum-target)/2 <0) return 0;
-        if ((totalSum-target)%2 != 0) return 0;
+        if ((totalSum+target)/2 <0) return 0;
+        if ((totalSum+target)%2 != 0) return 0;
         vector<vector<int>>dp(n,vector<int>(m+1,-1));
         return subsetSum(n-1,m,nums,dp);
         
