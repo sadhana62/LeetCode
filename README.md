@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sadhana62/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/sadhana62/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sadhana62/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0494-target-sum](https://github.com/sadhana62/LeetCode/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/sadhana62/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0621-task-scheduler](https://github.com/sadhana62/LeetCode/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/sadhana62/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sadhana62/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sadhana62/LeetCode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/sadhana62/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0494-target-sum](https://github.com/sadhana62/LeetCode/tree/master/0494-target-sum) |
 | [1977-number-of-ways-to-separate-numbers](https://github.com/sadhana62/LeetCode/tree/master/1977-number-of-ways-to-separate-numbers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sadhana62/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
@@ -278,4 +280,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/sadhana62/LeetCode/tree/master/0214-shortest-palindrome) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/sadhana62/LeetCode/tree/master/0494-target-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/sadhana62/LeetCode/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/sadhana62/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
