@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sadhana62/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/sadhana62/LeetCode/tree/master/0018-4sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sadhana62/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sadhana62/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/sadhana62/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/sadhana62/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sadhana62/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/sadhana62/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/sadhana62/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sadhana62/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/sadhana62/LeetCode/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/sadhana62/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/sadhana62/LeetCode/tree/master/0214-shortest-palindrome) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sadhana62/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/sadhana62/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/sadhana62/LeetCode/tree/master/0686-repeated-string-match) |
 ## Hash Function
@@ -302,11 +305,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Z Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sadhana62/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/sadhana62/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/sadhana62/LeetCode/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sadhana62/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/sadhana62/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/sadhana62/LeetCode/tree/master/0686-repeated-string-match) |
 ## Backtracking
@@ -333,5 +338,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sadhana62/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/sadhana62/LeetCode/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
