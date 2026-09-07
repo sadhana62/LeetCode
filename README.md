@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/sadhana62/LeetCode/tree/master/0686-repeated-string-match) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sadhana62/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/sadhana62/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1392-longest-happy-prefix](https://github.com/sadhana62/LeetCode/tree/master/1392-longest-happy-prefix) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sadhana62/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sadhana62/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/sadhana62/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -288,16 +289,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/sadhana62/LeetCode/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/sadhana62/LeetCode/tree/master/1392-longest-happy-prefix) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sadhana62/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/sadhana62/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/sadhana62/LeetCode/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/sadhana62/LeetCode/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/sadhana62/LeetCode/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/sadhana62/LeetCode/tree/master/1392-longest-happy-prefix) |
 ## Manacher
 |  |
 | ------- |
@@ -308,12 +312,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sadhana62/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/sadhana62/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/sadhana62/LeetCode/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/sadhana62/LeetCode/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sadhana62/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/sadhana62/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/sadhana62/LeetCode/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/sadhana62/LeetCode/tree/master/1392-longest-happy-prefix) |
 ## Backtracking
 |  |
 | ------- |
