@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/sadhana62/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sadhana62/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sadhana62/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/sadhana62/LeetCode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2029-stone-game-ix](https://github.com/sadhana62/LeetCode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sadhana62/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sadhana62/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sadhana62/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sadhana62/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/sadhana62/LeetCode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sadhana62/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/sadhana62/LeetCode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sadhana62/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Minimax
 |  |
