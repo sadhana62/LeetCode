@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sadhana62/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/sadhana62/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0567-permutation-in-string](https://github.com/sadhana62/LeetCode/tree/master/0567-permutation-in-string) |
+| [0686-repeated-string-match](https://github.com/sadhana62/LeetCode/tree/master/0686-repeated-string-match) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sadhana62/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/sadhana62/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sadhana62/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/sadhana62/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0686-repeated-string-match](https://github.com/sadhana62/LeetCode/tree/master/0686-repeated-string-match) |
 ## Hash Function
 |  |
 | ------- |
@@ -301,10 +303,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/sadhana62/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0686-repeated-string-match](https://github.com/sadhana62/LeetCode/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/sadhana62/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0686-repeated-string-match](https://github.com/sadhana62/LeetCode/tree/master/0686-repeated-string-match) |
 ## Backtracking
 |  |
 | ------- |
@@ -326,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sadhana62/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/sadhana62/LeetCode/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
