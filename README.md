@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sadhana62/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/sadhana62/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sadhana62/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sadhana62/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0494-target-sum](https://github.com/sadhana62/LeetCode/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/sadhana62/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0621-task-scheduler](https://github.com/sadhana62/LeetCode/tree/master/0621-task-scheduler) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sadhana62/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sadhana62/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/sadhana62/LeetCode/tree/master/0146-lru-cache) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sadhana62/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/sadhana62/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/sadhana62/LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/sadhana62/LeetCode/tree/master/0621-task-scheduler) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sadhana62/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sadhana62/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sadhana62/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sadhana62/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Minimax
 |  |
