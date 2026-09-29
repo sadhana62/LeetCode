@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/sadhana62/LeetCode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2029-stone-game-ix](https://github.com/sadhana62/LeetCode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sadhana62/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sadhana62/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sadhana62/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/sadhana62/LeetCode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sadhana62/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/sadhana62/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0494-target-sum](https://github.com/sadhana62/LeetCode/tree/master/0494-target-sum) |
 | [1977-number-of-ways-to-separate-numbers](https://github.com/sadhana62/LeetCode/tree/master/1977-number-of-ways-to-separate-numbers) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sadhana62/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2484-count-palindromic-subsequences](https://github.com/sadhana62/LeetCode/tree/master/2484-count-palindromic-subsequences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sadhana62/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sadhana62/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sadhana62/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -379,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sadhana62/LeetCode/tree/master/0207-course-schedule) |
+## Matrix
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sadhana62/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
