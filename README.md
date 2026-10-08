@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sadhana62/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/sadhana62/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/sadhana62/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sadhana62/LeetCode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sadhana62/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sadhana62/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/sadhana62/LeetCode/tree/master/0118-pascals-triangle) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sadhana62/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sadhana62/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/sadhana62/LeetCode/tree/master/0038-count-and-say) |
+| [0079-word-search](https://github.com/sadhana62/LeetCode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/sadhana62/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/sadhana62/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0567-permutation-in-string](https://github.com/sadhana62/LeetCode/tree/master/0567-permutation-in-string) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sadhana62/LeetCode/tree/master/0079-word-search) |
 | [0207-course-schedule](https://github.com/sadhana62/LeetCode/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sadhana62/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/sadhana62/LeetCode/tree/master/0785-is-graph-bipartite) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/sadhana62/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/sadhana62/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sadhana62/LeetCode/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/sadhana62/LeetCode/tree/master/0494-target-sum) |
 ## Knapsack Problem
 |  |
@@ -411,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sadhana62/LeetCode/tree/master/0079-word-search) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sadhana62/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Binary Search Tree
 |  |
