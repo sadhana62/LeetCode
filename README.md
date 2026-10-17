@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/sadhana62/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0621-task-scheduler](https://github.com/sadhana62/LeetCode/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/sadhana62/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/sadhana62/LeetCode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/sadhana62/LeetCode/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/sadhana62/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/sadhana62/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/sadhana62/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/sadhana62/LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/sadhana62/LeetCode/tree/master/0621-task-scheduler) |
+| [0645-set-mismatch](https://github.com/sadhana62/LeetCode/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/sadhana62/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sadhana62/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sadhana62/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sadhana62/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sadhana62/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0621-task-scheduler](https://github.com/sadhana62/LeetCode/tree/master/0621-task-scheduler) |
+| [0645-set-mismatch](https://github.com/sadhana62/LeetCode/tree/master/0645-set-mismatch) |
 | [0973-k-closest-points-to-origin](https://github.com/sadhana62/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sadhana62/LeetCode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/sadhana62/LeetCode/tree/master/0268-missing-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sadhana62/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0645-set-mismatch](https://github.com/sadhana62/LeetCode/tree/master/0645-set-mismatch) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/sadhana62/LeetCode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/sadhana62/LeetCode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sadhana62/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
