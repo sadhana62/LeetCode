@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sadhana62/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/sadhana62/LeetCode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sadhana62/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0041-first-missing-positive](https://github.com/sadhana62/LeetCode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/sadhana62/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/sadhana62/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sadhana62/LeetCode/tree/master/0079-word-search) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sadhana62/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/sadhana62/LeetCode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/sadhana62/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sadhana62/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/sadhana62/LeetCode/tree/master/0146-lru-cache) |
