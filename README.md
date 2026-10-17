@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sadhana62/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sadhana62/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/sadhana62/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/sadhana62/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sadhana62/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/sadhana62/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sadhana62/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/sadhana62/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/sadhana62/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/sadhana62/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/sadhana62/LeetCode/tree/master/0268-missing-number) |
 | [0355-design-twitter](https://github.com/sadhana62/LeetCode/tree/master/0355-design-twitter) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sadhana62/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/sadhana62/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sadhana62/LeetCode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/sadhana62/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sadhana62/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/sadhana62/LeetCode/tree/master/0268-missing-number) |
 | [0621-task-scheduler](https://github.com/sadhana62/LeetCode/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/sadhana62/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sadhana62/LeetCode/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/sadhana62/LeetCode/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/sadhana62/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/sadhana62/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1903-largest-odd-number-in-string](https://github.com/sadhana62/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -211,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sadhana62/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sadhana62/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/sadhana62/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/sadhana62/LeetCode/tree/master/0268-missing-number) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sadhana62/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Sliding Window
 |  |
@@ -310,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sadhana62/LeetCode/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/sadhana62/LeetCode/tree/master/0268-missing-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sadhana62/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/sadhana62/LeetCode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/sadhana62/LeetCode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
