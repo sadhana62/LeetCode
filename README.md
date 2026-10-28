@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sadhana62/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sadhana62/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sadhana62/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sadhana62/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sadhana62/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2484-count-palindromic-subsequences](https://github.com/sadhana62/LeetCode/tree/master/2484-count-palindromic-subsequences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sadhana62/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sadhana62/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/sadhana62/LeetCode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/sadhana62/LeetCode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sadhana62/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sadhana62/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Minimax
 |  |
 | ------- |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/sadhana62/LeetCode/tree/master/0079-word-search) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sadhana62/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sadhana62/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search Tree
 |  |
 | ------- |
