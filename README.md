@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sadhana62/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/sadhana62/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/sadhana62/LeetCode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/sadhana62/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/sadhana62/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sadhana62/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/sadhana62/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/sadhana62/LeetCode/tree/master/0079-word-search) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sadhana62/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0200-number-of-islands](https://github.com/sadhana62/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sadhana62/LeetCode/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sadhana62/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/sadhana62/LeetCode/tree/master/0785-is-graph-bipartite) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sadhana62/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sadhana62/LeetCode/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/sadhana62/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/sadhana62/LeetCode/tree/master/0802-find-eventual-safe-states) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sadhana62/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/sadhana62/LeetCode/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/sadhana62/LeetCode/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
@@ -470,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sadhana62/LeetCode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/sadhana62/LeetCode/tree/master/0200-number-of-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sadhana62/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sadhana62/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search Tree
